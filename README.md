@@ -1,7 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Battula Leeshma</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="<img width="1416" height="720" alt="image" src="https://github.com/user-attachments/assets/7d6fe63c-f5a7-407a-9771-66e3f1701a93" />
+">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
