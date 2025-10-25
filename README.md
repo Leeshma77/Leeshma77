@@ -1,7 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Battula Leeshma</h1>
 
 <div align="center">
-  <img src="<img width="1416" height="720" alt="image" src="https://github.com/user-attachments/assets/7d6fe63c-f5a7-407a-9771-66e3f1701a93" />
+  <img src="<img width="1416" height="720" alt="image" src="https://github.com/user-attachments/assets/7d6fe63c-f5a7-407a-9771-66e3f1701a93" /> 
+  <img width="1416" height="720" alt="Screenshot 2025-10-25 152801" src="https://github.com/user-attachments/assets/307a3e93-0480-4b11-803d-ea2240d84ce2" />
+
 ">
 </div>
 
